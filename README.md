@@ -16,9 +16,3 @@
 ## 🛠️ Actualmente aprendiendo...
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,git,vscode,figma&perline=7)](https://skillicons.dev)
-
-```txt
-- PHP y Laravel (rutas, controladores, migraciones, Eloquent)
-- MySQL y MongoDB
-- Buenas prácticas de backend
-- Git y control de versiones
