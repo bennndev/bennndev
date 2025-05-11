@@ -7,10 +7,10 @@
 ## 🚧 En construcción...
 Actualmente estoy desarrollando mis habilidades como backend developer. :D
 
-### 🛠️ Tecnologías en uso / aprendiendo:
+### 🛠️ Aprendiendooo
 
 - 🔙 **Backend:** PHP, Laravel 
 - 🛢️ **Bases de Datos:** MySQL, MongoDB
-- 🧰 **Herramientas:** Git, GitHub, Figma, VS Code, Cursor
+- 🧰 **Herramientas:** Git, GitHub, Trello, Figma, VS Code, Cursor
 
 ---
