@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 Backend Dev in Progress 🚀
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzV1Z3F1bDAyeHIxYjkyN3FxNm10ZWxzMG82ZDF5cDJqb3E3NnozMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="100%" alt="coding gif" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzV1Z3F1bDAyeHIxYjkyN3FxNm10ZWxzMG82ZDF5cDJqb3E3NnozMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="30%" alt="coding gif" />
 
 ---
 
