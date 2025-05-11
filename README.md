@@ -1,16 +1,24 @@
 # 👋 ¡Holaaaa, soy Benjamín Sullca!
 
-### 🧑‍💻 Backend Dev in Progress 
+### 🧑‍💻 Backend Dev in Progress 🚀
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzV1Z3F1bDAyeHIxYjkyN3FxNm10ZWxzMG82ZDF5cDJqb3E3NnozMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="100%" alt="coding gif" />
 
 ---
 
-## 🚧 En construcción...
-Actualmente estoy desarrollando mis habilidades como backend developer. :D
+## 📌 Sobre mí
 
-### 🛠️ Aprendiendooo
-
-- 🔙 **Backend:** PHP, Laravel 
-- 🛢️ **Bases de Datos:** MySQL, MongoDB
-- 🧰 **Herramientas:** Git, GitHub, Trello, Figma, VS Code, Cursor
+🎂 **Edad:** 19 años  
+🧠 Enfocado en ser **Backend Developer**  
 
 ---
+
+## 🛠️ Actualmente aprendiendo...
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,git,vscode,figma&perline=7)](https://skillicons.dev)
+
+```txt
+- PHP y Laravel (rutas, controladores, migraciones, Eloquent)
+- MySQL y MongoDB
+- Buenas prácticas de backend
+- Git y control de versiones
