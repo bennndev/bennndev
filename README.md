@@ -1,16 +1,25 @@
-## Holi bolii 👋
+# 👋 ¡Hola, soy Benjamín Sullca!
 
-<!--
-**bennndev/bennndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 Backend Dev in Progress 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 En construcción...
+Actualmente estoy desarrollando mis habilidades como backend developer. :D
+
+### 🛠️ Tecnologías en uso / aprendiendo:
+
+- 🔙 **Backend:** PHP, Laravel 
+- 🛢️ **Bases de Datos:** MySQL, MongoDB
+- 🧰 **Herramientas:** Git, GitHub, Figma, VS Code, Cursor
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+```txt
+- Laravel (rutas, controladores, Eloquent ORM, migraciones)
+- MySQL avanzado
+- Fundamentos de APIs REST
+- Control de versiones con Git
+- Buenas prácticas de backend
