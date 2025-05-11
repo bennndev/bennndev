@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Benjamín Sullca!
+# 👋 ¡Holaaaa, soy Benjamín Sullca!
 
 ### 🧑‍💻 Backend Dev in Progress 
 
@@ -14,12 +14,3 @@ Actualmente estoy desarrollando mis habilidades como backend developer. :D
 - 🧰 **Herramientas:** Git, GitHub, Figma, VS Code, Cursor
 
 ---
-
-## 🌱 Actualmente aprendiendo
-
-```txt
-- Laravel (rutas, controladores, Eloquent ORM, migraciones)
-- MySQL avanzado
-- Fundamentos de APIs REST
-- Control de versiones con Git
-- Buenas prácticas de backend
