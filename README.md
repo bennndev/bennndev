@@ -15,4 +15,4 @@
 
 ## 🛠️ Actualmente aprendiendo...
 
-[![My Skills](https://skillicons.dev/icons?i=,python,java,php,laravel,mysql,mongodb,bash,figma,notion&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,php,laravel,mysql,mongodb,bash,figma&perline=7)](https://skillicons.dev)
