@@ -13,6 +13,12 @@
 
 ---
 
+## 💀 Mí conocimiento :D
+
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,java,figma,notion&perline=7)](https://skillicons.dev)
+
+---
+
 ## 🛠️ Actualmente aprendiendo...
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,php,laravel,mysql,mongodb,bash,figma&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,bash&perline=7)](https://skillicons.dev)
