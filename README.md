@@ -9,7 +9,7 @@
 ## 📌 Sobre mí
 
 🎂 **Edad:** 19 años  
-🧠 Enfocado en ser **Backend Developer**  
+🧠 **Backend Developer**  
 
 ---
 
