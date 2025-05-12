@@ -1,4 +1,4 @@
-# 👋 ¡Holaaaa, soy Benjamín Sullca!
+# 👋 ¡Holaazaa, soy Benjamín Sullca!
 
 ### 🧑‍💻 Backend Dev in Progress 🚀
 
