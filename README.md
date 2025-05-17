@@ -13,7 +13,7 @@
 
 ---
 
-## 💀 Mí conocimiento :D
+## 💀 Skills :D
 
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,java,figma,notion,git&perline=7)](https://skillicons.dev)
 
