@@ -10,17 +10,19 @@
           <li>📫 Connect with me:</li>
         </ul>
         <br>
-        <a href="mailto:benjaminsullca@gmail.com">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" height="30" alt="Gmail"/>
-        </a>
-        <a href="https://www.linkedin.com/in/benjamin-sullca-821822382/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
-        </a>
+        <div align="center">
+          <a href="mailto:benjaminsullca@gmail.com">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" height="30" alt="Gmail"/>
+          </a>
+          <a href="https://www.linkedin.com/in/benjamin-sullca-821822382/">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
+          </a>
+        </div>
       </td>
       <td>
         <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300" alt="nu metal vibes" />
         <br><br>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ac569&repeat=false&width=300&lines=Can't+stop+addicted+to+the+coding" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ac569&repeat=false&width=300&lines=Code+Hard" />
       </td>
     </tr>
     <tr>
