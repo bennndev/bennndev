@@ -2,6 +2,7 @@
   <table>
     <tr>
       <td valign="top" align="left">
+        <!-- Header animado -->
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ac569&width=435&lines=Hi+there!+I'm+Benjamín.;Welcome+to+my+GitHub+space!" />
         <ul>
           <li>🎂 Age: 19</li>
@@ -9,16 +10,19 @@
           <li>🎨 Passionate about UX/UI design as well.</li>
         </ul>
         <br>
-        <!-- Mensaje animado arriba de los iconos -->
+        <!-- Mensaje animado de contacto -->
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ac569&width=200&repeat=false&lines=Contact+me!" alt="Contact me!" />
-        <!-- Iconos de contacto alineados a la izquierda con espacio horizontal -->
+        
+        <!-- Iconos de contacto alineados horizontalmente con espacio vacío -->
         <div style="display: flex; align-items: center; margin-top: 5px;">
           <!-- Gmail -->
           <a href="mailto:benjamin.sullca1103@gmail.com">
             <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" height="40" alt="Gmail"/>
           </a>
-          <!-- Espacio horizontal -->
-          <div style="width: 200px;"></div>
+          
+          <!-- Espacio vacío del mismo tamaño que un icono -->
+          <div style="width: 40px; height: 40px;"></div>
+          
           <!-- LinkedIn -->
           <a href="https://www.linkedin.com/in/benjamin-sullca-821822382/">
             <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" height="40" alt="LinkedIn"/>
@@ -32,9 +36,9 @@
     <tr>
       <td colspan="2" align="left">
         <br>
+        <!-- Skills -->
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ac569&repeat=false&width=800&lines=Skills%3A" />
         <br><br>
-        <!-- Skills alineados a la izquierda en filas compactas -->
         <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 10px;">
           <img src="https://skillicons.dev/icons?i=php&theme=dark" width="40" height="40" alt="PHP"/>
           <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="40" height="40" alt="Laravel"/>
@@ -47,6 +51,7 @@
           <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="40" height="40" alt="Figma"/>
         </div>
         <br><br>
+        <!-- Currently Learning -->
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ac569&repeat=false&width=800&lines=Currently+Learning%3A" />
         <br><br>
         <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 10px;">
