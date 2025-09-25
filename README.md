@@ -9,12 +9,14 @@
           <li>🎨 Passionate about UX/UI design as well.</li>
         </ul>
         <br>
-        <div align="center">
+        <div align="center" style="display: flex; justify-content: center; gap: 20px;">
+          <!-- Gmail -->
           <a href="mailto:benjamin.sullca1103@gmail.com">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" height="30" alt="Gmail" style="margin: 0 15px;"/>
+            <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" height="40" alt="Gmail"/>
           </a>
+          <!-- LinkedIn -->
           <a href="https://www.linkedin.com/in/benjamin-sullca-821822382/">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn" style="margin: 0 15px;"/>
+            <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" height="40" alt="LinkedIn"/>
           </a>
         </div>
       </td>
@@ -23,7 +25,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td colspan="2" align="center">
         <br>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ac569&repeat=false&width=800&lines=Skills%3A" />
         <br><br>
