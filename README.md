@@ -1,3 +1,5 @@
+---
+
 <div align="center">
   <table>
     <tr>
@@ -11,18 +13,18 @@
         </ul>
         <br>
         <div align="center">
-          <a href="mailto:benjaminsullca@gmail.com">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" height="30" alt="Gmail"/>
+          <a href="mailto:benjamin.sullca1103@gmail.com">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" height="30" alt="Gmail" style="margin: 0 10px;"/>
           </a>
           <a href="https://www.linkedin.com/in/benjamin-sullca-821822382/">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn" style="margin: 0 10px;"/>
           </a>
         </div>
       </td>
       <td>
-        <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300" alt="nu metal vibes" />
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczYzMG55b2M0cmdwdGM4cnN6dHQ3ZXlyZDRsZXN2Y3h6M3NxZnFqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="300" alt="nu metal vibes" />
         <br><br>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ac569&repeat=false&width=300&lines=Code+Hard" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ac569&repeat=false&width=300&lines=One+step+closer;Numb+inside" />
       </td>
     </tr>
     <tr>
