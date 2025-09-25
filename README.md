@@ -10,10 +10,9 @@
         </ul>
         <br>
         <!-- Mensaje animado arriba de los iconos -->
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ac569&width=200&repeat=false&lines=Touch+me+%F0%9F%91%8B" alt="Contact me" />
-        <br><br>
-        <!-- Iconos de contacto alineados a la izquierda -->
-        <div style="display: flex; justify-content: flex-start; gap: 35px; align-items: center;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ac569&width=200&repeat=false&lines=Contact+me" alt="Contact me" />
+        <!-- Iconos de contacto alineados a la izquierda y pegados al gif -->
+        <div style="display: flex; justify-content: flex-start; gap: 200px; align-items: center; margin-top: 5px;">
           <!-- Gmail -->
           <a href="mailto:benjamin.sullca1103@gmail.com">
             <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" height="40" alt="Gmail"/>
