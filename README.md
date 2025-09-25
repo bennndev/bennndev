@@ -36,11 +36,3 @@
     </tr>
   </table>
 </div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminSullca&layout=compact&theme=tokyonight" alt="Ben stats" />
-  <br>
-  ![snake gif](https://github.com/nunezgabriel/nunezgabriel/blob/output/github-snake-dark.svg)
-</div>
