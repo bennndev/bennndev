@@ -1,7 +1,7 @@
 <div align="center">
   <table>
     <tr>
-      <td valign="middle" align="left">
+      <td valign="top" align="left">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ac569&width=435&lines=Hi+there!+I'm+Benjamín.;Welcome+to+my+GitHub+space!" />
         <ul>
           <li>🎂 Age: 19</li>
@@ -9,7 +9,11 @@
           <li>🎨 Passionate about UX/UI design as well.</li>
         </ul>
         <br>
-        <div align="center" style="display: flex; justify-content: center; gap: 20px;">
+        <!-- Mensaje animado arriba de los iconos -->
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ac569&width=200&repeat=false&lines=Touch+me+%F0%9F%91%8B" alt="Contact me" />
+        <br><br>
+        <!-- Iconos de contacto alineados a la izquierda -->
+        <div style="display: flex; justify-content: flex-start; gap: 35px; align-items: center;">
           <!-- Gmail -->
           <a href="mailto:benjamin.sullca1103@gmail.com">
             <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" height="40" alt="Gmail"/>
