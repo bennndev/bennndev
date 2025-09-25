@@ -13,8 +13,16 @@
             <li>🎨 Passionate about UX/UI design as well.</li>
             <li>📫 Reach me at:
               <ul>
-                <li>Email: <a href="mailto:benjaminsullca@gmail.com">benjaminsullca@gmail.com</a></li>
-                <li>LinkedIn: <a href="https://www.linkedin.com/in/benjamin-sullca-821822382/">linkedin.com/in/benjamin-sullca-821822382</a></li>
+                <li>
+                  <a href="mailto:benjaminsullca@gmail.com">
+                    <img src="https://img.shields.io/badge/-Email-%233ac569?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.linkedin.com/in/benjamin-sullca-821822382/">
+                    <img src="https://img.shields.io/badge/-LinkedIn-%233ac569?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+                  </a>
+                </li>
               </ul>
             </li>
           </ul>
