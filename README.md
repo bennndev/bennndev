@@ -1,15 +1,15 @@
 <div align="center">
   <table>
     <tr>
-      <td valign="top" align="center">
+      <td valign="middle" align="left">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ac569&width=435&lines=Hi+there!+I'm+Benjamín.;Welcome+to+my+GitHub+space!" />
-        <ul style="text-align: left; display: inline-block;">
+        <ul>
           <li>🎂 Age: 19</li>
           <li>🧑‍💻 Backend-focused dev with a love for elegant code and scalable systems.</li>
           <li>🎨 Passionate about UX/UI design as well.</li>
         </ul>
         <br>
-        <div>
+        <div align="center">
           <a href="mailto:benjamin.sullca1103@gmail.com">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" height="30" alt="Gmail" style="margin: 0 15px;"/>
           </a>
