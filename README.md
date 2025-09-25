@@ -11,13 +11,13 @@
         <br>
         <!-- Mensaje animado arriba de los iconos -->
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ac569&width=200&repeat=false&lines=Contact+me!" alt="Contact me!" />
-        <!-- Iconos de contacto alineados a la izquierda con separación visual -->
+        <!-- Iconos de contacto alineados a la izquierda con espacio horizontal -->
         <div style="display: flex; align-items: center; margin-top: 5px;">
           <!-- Gmail -->
           <a href="mailto:benjamin.sullca1103@gmail.com">
             <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" height="40" alt="Gmail"/>
           </a>
-          <!-- Elemento vacío para simular gap -->
+          <!-- Espacio horizontal -->
           <div style="width: 200px;"></div>
           <!-- LinkedIn -->
           <a href="https://www.linkedin.com/in/benjamin-sullca-821822382/">
@@ -34,7 +34,7 @@
         <br>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ac569&repeat=false&width=800&lines=Skills%3A" />
         <br><br>
-        <!-- Skills alineados a la izquierda -->
+        <!-- Skills alineados a la izquierda en filas compactas -->
         <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 10px;">
           <img src="https://skillicons.dev/icons?i=php&theme=dark" width="40" height="40" alt="PHP"/>
           <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="40" height="40" alt="Laravel"/>
@@ -53,4 +53,9 @@
           <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="40" height="40" alt="Spring"/>
           <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="40" height="40" alt="Kotlin"/>
           <img src="https://skillicons.dev/icons?i=django&theme=dark" width="40" height="40" alt="Django"/>
-          <img src="https://skilli
+          <img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" height="40" alt="React"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
