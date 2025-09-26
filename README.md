@@ -15,7 +15,7 @@
             <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" height="40" alt="Gmail"/>
           </a>
           <span style="width: 20px;"></span> 
-          <a href="https://www.linkedin.com/in/benjamin-sullca-821822382/" style="text-decoration: none;">
+          <a href="https://www.linkedin.com/in/benjamin-sullca" style="text-decoration: none;">
             <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" height="40" alt="LinkedIn"/>
           </a>
         </div>
