@@ -16,7 +16,6 @@
           </a>
           <span style="width: 20px;"></span> 
           <a href="https://www.linkedin.com/in/benjamin-sullca" style="text-decoration: none;">
-            <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" height="40" alt="LinkedIn"/>
           </a>
         </div>
       </td>
